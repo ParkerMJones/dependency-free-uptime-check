@@ -1,0 +1,1 @@
+# dependency-free-uptime-check
